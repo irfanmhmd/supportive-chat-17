@@ -1,0 +1,302 @@
+[
+  {
+    "user_input": "I feel depressed",
+    "bot_response": "I'm really sorry you're feeling this way, and I want you to know that you're not alone in this struggle. It may help to talk with a trusted friend or family member, write down your feelings in a journal, or try mindfulness exercises and gentle physical activity. Please avoid isolating yourself or falling into negative self-talk patterns. If these feelings continue or worsen, consider reaching out to a mental health professional for support."
+  },
+  {
+    "user_input": "I'm anxious about exams",
+    "bot_response": "Exam anxiety is completely understandable, and many people experience these feelings. Try breaking your study into manageable chunks, practice deep breathing exercises, and maintain a regular sleep schedule. Avoid cramming all night, comparing yourself to others, or catastrophizing about potential outcomes. Remember, you've prepared as best you can, and if anxiety becomes overwhelming, don't hesitate to speak with a counselor or therapist."
+  },
+  {
+    "user_input": "I feel lonely",
+    "bot_response": "Feeling lonely can be really painful, and I want you to know that this feeling is temporary and you matter. Consider reaching out to an old friend, joining a club or community group, or volunteering for a cause you care about. Try to avoid isolating yourself further or scrolling through social media excessively, as this can worsen loneliness. You're not alone in feeling this way, and if loneliness persists, a therapist can help you develop connection strategies."
+  },
+  {
+    "user_input": "I can't sleep",
+    "bot_response": "Sleep difficulties can be really frustrating and affect your entire day. Try establishing a consistent bedtime routine, avoiding screens before bed, and practicing relaxation techniques like progressive muscle relaxation. Avoid caffeine late in the day, napping too long, or lying in bed worrying about not sleeping. You deserve restful sleep, and if insomnia continues, consider speaking with a healthcare provider about possible solutions."
+  },
+  {
+    "user_input": "I have no motivation",
+    "bot_response": "Loss of motivation is something many people experience, especially during difficult times, and it doesn't reflect your worth as a person. Try setting very small, achievable goals, celebrating tiny victories, and engaging in activities that previously brought you joy. Avoid putting pressure on yourself to be productive all the time or comparing your energy levels to others. You're going through a tough period, and if motivation doesn't return gradually, a mental health professional can help you explore underlying causes."
+  },
+  {
+    "user_input": "I'm stressed about work",
+    "bot_response": "Work stress is incredibly common and can feel overwhelming, but you have the strength to manage this. Try organizing your tasks by priority, taking regular breaks throughout the day, and practicing stress-reduction techniques like deep breathing. Avoid working excessive hours without breaks, taking on more than you can handle, or keeping stress bottled up inside. You're capable and valued, and if work stress continues to impact your well-being, consider discussing this with HR or a counselor."
+  },
+  {
+    "user_input": "I feel worthless",
+    "bot_response": "I'm deeply sorry you're feeling this way, and I want you to know that you have inherent worth and value that cannot be diminished. Try practicing self-compassion, writing down your positive qualities and achievements, and connecting with supportive people in your life. Please avoid engaging in negative self-talk, comparing yourself harshly to others, or isolating yourself. You matter more than you realize, and if these feelings persist, please reach out to a mental health professional immediately."
+  },
+  {
+    "user_input": "I'm overwhelmed",
+    "bot_response": "Feeling overwhelmed is a sign that you're dealing with a lot right now, and it's completely understandable. Try breaking down your responsibilities into smaller, manageable steps, practicing mindfulness to stay present, and asking for help when you need it. Avoid trying to handle everything at once, saying yes to every request, or pushing through without taking breaks. You don't have to carry everything alone, and if overwhelm becomes unmanageable, a therapist can help you develop coping strategies."
+  },
+  {
+    "user_input": "I hate myself",
+    "bot_response": "I'm so sorry you're experiencing such painful thoughts about yourself, and I want you to know that you deserve compassion and care. Please try practicing self-compassion, challenging negative self-talk with gentle questioning, and surrounding yourself with supportive people. Avoid engaging with content or people that reinforce these negative feelings, isolating yourself, or acting on harmful impulses. You are worthy of love and support, and these intense feelings require professional help - please consider reaching out to a mental health crisis line or therapist immediately."
+  },
+  {
+    "user_input": "I'm having panic attacks",
+    "bot_response": "Panic attacks can be terrifying, but they are treatable and you can learn to manage them effectively. During an attack, try the 5-4-3-2-1 grounding technique, focus on slow deep breathing, and remind yourself that the feeling will pass. Avoid caffeine, trying to fight the panic, or avoiding situations entirely due to fear. You're brave for reaching out, and panic attacks are a common condition that responds well to professional treatment - please consider speaking with a therapist who specializes in anxiety disorders."
+  },
+  {
+    "user_input": "I feel like giving up",
+    "bot_response": "I hear how much pain you're in right now, and I want you to know that reaching out shows incredible strength. Please try connecting with someone you trust, engaging in small self-care activities, and remembering that feelings change and situations can improve. Avoid making permanent decisions based on temporary feelings, isolating yourself completely, or dismissing your own worth. You matter deeply, and if you're having thoughts of giving up on life, please contact a crisis helpline or emergency services immediately."
+  },
+  {
+    "user_input": "I'm angry all the time",
+    "bot_response": "Constant anger can be exhausting and may be a sign that you're dealing with underlying stress or hurt. Try physical exercise to release tension, journaling to identify triggers, and practicing relaxation techniques like deep breathing. Avoid lashing out at others, bottling up your feelings, or using substances to cope with anger. Your feelings are valid, and if anger continues to feel uncontrollable, a therapist can help you develop healthy anger management strategies."
+  },
+  {
+    "user_input": "I can't stop worrying",
+    "bot_response": "Persistent worry can be mentally and physically exhausting, and you're not alone in experiencing this. Try setting aside a specific 'worry time' each day, practicing mindfulness to stay present, and challenging worried thoughts with evidence-based thinking. Avoid trying to control everything, engaging in 'what if' thinking spirals, or avoiding all potentially worrying situations. You have the capacity to find peace, and if worry significantly impacts your daily life, consider speaking with a mental health professional about anxiety management techniques."
+  },
+  {
+    "user_input": "I feel empty inside",
+    "bot_response": "Feeling empty can be one of the most difficult emotions to experience, and I want you to know that this feeling doesn't define you. Try engaging in activities that previously brought meaning, connecting with others even in small ways, and practicing self-care routines. Avoid numbing yourself with substances, dismissing your feelings as unimportant, or expecting the emptiness to fill itself immediately. You have value and depth, and feelings of emptiness often benefit from professional support to explore underlying causes and develop coping strategies."
+  },
+  {
+    "user_input": "I'm scared of failing",
+    "bot_response": "Fear of failure is natural and shows that you care about your goals and performance. Try reframing failure as learning opportunities, setting realistic expectations for yourself, and celebrating effort regardless of outcome. Avoid perfectionism, procrastinating due to fear, or avoiding challenges entirely. You are capable of handling both success and setbacks, and if fear of failure paralyzes you from taking action, a counselor can help you build confidence and resilience."
+  },
+  {
+    "user_input": "I feel guilty about everything",
+    "bot_response": "Excessive guilt can be a heavy burden to carry, and it's important to remember that you deserve self-compassion. Try examining whether your guilt is proportionate to the situation, practicing forgiveness toward yourself, and making amends when appropriate without self-punishment. Avoid ruminating on past mistakes, taking responsibility for things beyond your control, or using guilt as self-motivation. You're human and deserving of kindness, and if guilt feels overwhelming, a therapist can help you develop a healthier relationship with your conscience."
+  },
+  {
+    "user_input": "I'm jealous of others",
+    "bot_response": "Jealousy is a human emotion that many people experience, and acknowledging it shows self-awareness. Try focusing on your own growth and achievements, practicing gratitude for what you have, and limiting social media if it triggers comparison. Avoid constantly comparing yourself to others, dismissing your own accomplishments, or letting jealousy damage your relationships. You have your own unique path and value, and if jealousy becomes consuming, speaking with a counselor can help you build self-esteem and appreciation for your own journey."
+  },
+  {
+    "user_input": "I don't trust anyone",
+    "bot_response": "Difficulty trusting others often comes from past hurts, and your feelings are completely understandable. Try starting with small acts of trust, setting healthy boundaries, and communicating your needs clearly in relationships. Avoid isolating yourself completely, expecting perfection from others, or letting past betrayals dictate all future relationships. You deserve trustworthy connections, and if trust issues significantly impact your relationships, a therapist can help you work through past experiences and develop secure attachment patterns."
+  },
+  {
+    "user_input": "I'm addicted to my phone",
+    "bot_response": "Recognizing phone dependency is an important first step, and you're not alone in struggling with technology balance. Try setting specific phone-free times, using app timers to limit usage, and engaging in offline activities you enjoy. Avoid using your phone as your primary coping mechanism, keeping it by your bed, or dismissing this concern as unimportant. You have the power to regain control over your technology use, and if phone addiction significantly impacts your life, consider seeking support from a counselor who understands digital wellness."
+  },
+  {
+    "user_input": "I feel disconnected from everyone",
+    "bot_response": "Feeling disconnected can be isolating and painful, but this feeling can change with time and effort. Try reaching out with small gestures, participating in activities that align with your values, and being authentic in your interactions. Avoid pretending to be someone you're not, giving up on connections after one try, or assuming others don't want to connect with you. You have the capacity for meaningful relationships, and if disconnection persists, a therapist can help you explore barriers to connection and develop social skills."
+  },
+  {
+    "user_input": "I'm afraid of the future",
+    "bot_response": "Fear about the future is incredibly common, especially during uncertain times, and your concerns are valid. Try focusing on what you can control today, practicing grounding techniques to stay present, and building confidence through small daily achievements. Avoid trying to predict or control everything, catastrophizing about worst-case scenarios, or avoiding all planning due to fear. You have survived challenges before and have inner strength, and if future anxiety becomes paralyzing, consider speaking with a mental health professional about anxiety management."
+  },
+  {
+    "user_input": "I keep making mistakes",
+    "bot_response": "Making mistakes is part of being human, and it shows you're trying and taking action in your life. Try viewing mistakes as learning opportunities, practicing self-compassion when errors occur, and focusing on progress rather than perfection. Avoid harsh self-criticism, comparing your mistakes to others' successes, or giving up after setbacks. You are worthy of patience and understanding, especially from yourself, and if self-criticism becomes overwhelming, a counselor can help you develop a healthier inner dialogue."
+  },
+  {
+    "user_input": "I feel like nobody understands me",
+    "bot_response": "Feeling misunderstood can be deeply lonely, and it's natural to want others to truly see and appreciate who you are. Try expressing your thoughts and feelings clearly, seeking out communities with shared interests or experiences, and practicing patience as understanding develops over time. Avoid assuming others' intentions, giving up on communication after initial misunderstandings, or isolating yourself because you feel different. You are unique and valuable, and if feeling misunderstood persists, therapy can provide a space where you feel truly heard and understood."
+  },
+  {
+    "user_input": "I'm exhausted all the time",
+    "bot_response": "Chronic exhaustion can affect every aspect of your life, and it's important to address both physical and emotional causes. Try maintaining consistent sleep schedules, eating nutritious meals regularly, and incorporating gentle movement into your day. Avoid pushing through extreme fatigue, relying on caffeine to function, or dismissing exhaustion as laziness. You deserve to feel energized and well, and if fatigue persists despite lifestyle changes, consider consulting with healthcare providers to rule out underlying medical or mental health conditions."
+  },
+  {
+    "user_input": "I don't know who I am anymore",
+    "bot_response": "Identity confusion can be disorienting, but it's also a sign of growth and self-reflection. Try exploring your values and interests, reflecting on what feels authentic to you, and giving yourself permission to evolve and change. Avoid rushing to define yourself, comparing your identity to others, or believing you should have everything figured out by a certain age. You are on a journey of self-discovery that takes time, and if identity concerns feel overwhelming, a therapist can help you explore and understand yourself more deeply."
+  },
+  {
+    "user_input": "I'm scared of being alone",
+    "bot_response": "Fear of being alone is deeply human, and many people share this concern about solitude and independence. Try gradually spending comfortable time alone, developing hobbies you enjoy independently, and building a strong relationship with yourself. Avoid staying in unhealthy relationships just to avoid being alone, depending entirely on others for emotional regulation, or equating alone time with loneliness. You are complete on your own and capable of enjoying your own company, and if fear of solitude feels paralyzing, a counselor can help you build comfort with independence."
+  },
+  {
+    "user_input": "I hate my body",
+    "bot_response": "Body dissatisfaction can be painful and affects many people in our image-focused culture. Try practicing body neutrality, focusing on what your body can do rather than just appearance, and limiting exposure to unrealistic beauty standards. Avoid comparing your body to others, engaging in harmful diet behaviors, or speaking negatively about your body aloud. You deserve to feel comfortable in your own skin, and if body image concerns significantly impact your life, consider working with a therapist who specializes in body image and self-acceptance."
+  },
+  {
+    "user_input": "I'm struggling with change",
+    "bot_response": "Change can be challenging even when it's positive, and your struggle with transitions is completely normal. Try breaking changes into smaller steps, focusing on what remains stable in your life, and practicing flexibility while maintaining important routines. Avoid resisting all change, catastrophizing about potential outcomes, or expecting to adapt immediately without any discomfort. You have successfully navigated changes before and have the resilience to handle new transitions, and if change feels overwhelming, a therapist can help you develop coping strategies for life transitions."
+  },
+  {
+    "user_input": "I feel like I'm falling behind",
+    "bot_response": "The feeling of falling behind is common in our fast-paced world, but everyone moves at their own pace in life. Try focusing on your personal progress rather than comparing timelines, celebrating small victories, and remembering that success looks different for everyone. Avoid measuring your worth by others' achievements, rushing important decisions to 'catch up,' or dismissing your unique journey. You are exactly where you need to be right now, and if pressure to keep up becomes overwhelming, consider speaking with a counselor about managing comparison and finding your authentic path."
+  },
+  {
+    "user_input": "I'm having relationship problems",
+    "bot_response": "Relationship challenges are difficult but also opportunities for growth and deeper connection. Try communicating openly about your feelings, listening actively to your partner's perspective, and seeking compromise when possible. Avoid stonewalling during conflicts, making assumptions about your partner's intentions, or expecting relationships to be perfect without effort. You deserve healthy, supportive relationships, and if communication breaks down persistently, couples therapy can provide tools for better connection and conflict resolution."
+  },
+  {
+    "user_input": "I feel stuck in life",
+    "bot_response": "Feeling stuck is frustrating but often signals that you're ready for growth and change in your life. Try identifying one small change you can make today, exploring new interests or opportunities, and reflecting on what direction feels meaningful to you. Avoid waiting for motivation to strike, comparing your progress to others, or believing that feeling stuck means you're failing. You have the power to create movement in your life, and if feeling stuck persists, a therapist can help you identify obstacles and develop strategies for moving forward."
+  },
+  {
+    "user_input": "I'm worried about my family",
+    "bot_response": "Caring about family can sometimes lead to worry and stress, which shows how much you love them. Try focusing on what support you can realistically provide, setting healthy boundaries around family concerns, and practicing acceptance of what you cannot control. Avoid taking on responsibility for everyone else's problems, sacrificing your own well-being for family issues, or worrying about things completely outside your influence. You can be supportive while still taking care of yourself, and if family stress becomes overwhelming, consider family therapy or individual counseling for support."
+  },
+  {
+    "user_input": "I don't feel good enough",
+    "bot_response": "Feelings of inadequacy are painful but don't reflect your true worth and value as a person. Try practicing self-compassion, acknowledging your efforts and progress, and challenging negative self-talk with evidence of your capabilities. Avoid perfectionism, comparing yourself to others' highlight reels, or dismissing compliments and positive feedback. You are enough exactly as you are, and if feelings of inadequacy persist, therapy can help you develop a healthier self-image and recognize your inherent worth."
+  },
+  {
+    "user_input": "I'm procrastinating everything",
+    "bot_response": "Procrastination often stems from feeling overwhelmed, perfectionism, or fear of failure, and you're not alone in this struggle. Try breaking tasks into smaller, manageable steps, using timers for focused work periods, and addressing underlying fears about performance. Avoid harsh self-criticism about procrastination, waiting for perfect conditions to start, or taking on too many tasks at once. You have the ability to take action when you're ready, and if procrastination significantly impacts your life, a counselor can help you understand and overcome the underlying causes."
+  },
+  {
+    "user_input": "I'm sensitive to criticism",
+    "bot_response": "Being sensitive to criticism can be painful, but it also shows that you care about doing well and being accepted. Try viewing constructive feedback as information rather than judgment, practicing self-validation, and distinguishing between helpful criticism and unnecessary harshness. Avoid taking all feedback personally, dismissing valid concerns entirely, or changing yourself completely based on others' opinions. Your sensitivity can be a strength when balanced with self-confidence, and if criticism feels overwhelming, therapy can help you develop resilience and healthy boundaries."
+  },
+  {
+    "user_input": "I feel like crying all the time",
+    "bot_response": "The urge to cry frequently can indicate that you're processing difficult emotions, and tears can actually be healing and necessary. Try allowing yourself to cry when you need to, exploring what emotions are underneath the tears, and practicing gentle self-care during emotional periods. Avoid judging yourself for crying, pushing down emotions to appear strong, or feeling ashamed of your emotional responses. Your emotions are valid and deserve attention, and if crying feels constant or uncontrollable, consider reaching out to a mental health professional for support."
+  },
+  {
+    "user_input": "I'm losing interest in everything",
+    "bot_response": "Loss of interest in activities you once enjoyed can be a sign of depression or burnout, and recognizing this change is important. Try engaging in small, manageable activities, spending time in nature, and maintaining social connections even when you don't feel like it. Avoid forcing yourself into major commitments, isolating completely, or expecting interest to return immediately without support. You deserve to feel engaged and passionate about life again, and if loss of interest persists, please consider speaking with a mental health professional as this can be effectively treated."
+  },
+  {
+    "user_input": "I'm afraid of judgment",
+    "bot_response": "Fear of judgment is natural and affects many people, but it shouldn't prevent you from living authentically. Try remembering that others are often focused on themselves, practicing self-acceptance regardless of others' opinions, and surrounding yourself with supportive people. Avoid mind-reading what others think, changing yourself completely to please others, or avoiding all situations where judgment might occur. You deserve to be yourself without constantly worrying about others' approval, and if fear of judgment becomes paralyzing, therapy can help you build confidence and self-acceptance."
+  },
+  {
+    "user_input": "I feel like I'm not smart enough",
+    "bot_response": "Intelligence comes in many forms, and comparing yourself to others can overlook your unique strengths and capabilities. Try focusing on your growth and learning rather than comparing to others, celebrating your curiosity and effort, and remembering that intelligence can be developed over time. Avoid defining your worth by academic or intellectual performance, dismissing your ideas before expressing them, or believing intelligence is fixed. You have valuable insights and perspectives to offer, and if self-doubt about intelligence persists, consider speaking with a counselor about building self-confidence."
+  },
+  {
+    "user_input": "I'm having trouble concentrating",
+    "bot_response": "Difficulty concentrating can be frustrating and may stem from stress, anxiety, or other factors affecting your mental state. Try breaking tasks into smaller chunks, minimizing distractions in your environment, and taking regular breaks to rest your mind. Avoid multitasking excessively, working in chaotic environments, or criticizing yourself harshly for attention difficulties. Your mind deserves patience and support, and if concentration problems persist or worsen, consider consulting with a healthcare provider to explore possible causes and solutions."
+  },
+  {
+    "user_input": "I feel disconnected from my emotions",
+    "bot_response": "Feeling disconnected from emotions can be protective but may also prevent you from fully experiencing life and relationships. Try journaling about your daily experiences, practicing mindfulness to tune into body sensations, and gradually allowing yourself to feel without judgment. Avoid dismissing emotions as unimportant, numbing feelings with substances or distractions, or forcing emotional responses before you're ready. Your emotions provide valuable information about your needs and experiences, and if disconnection feels concerning, therapy can help you safely reconnect with your emotional world."
+  },
+  {
+    "user_input": "I'm worried about money",
+    "bot_response": "Financial stress is incredibly common and can affect many aspects of your life and well-being. Try creating a realistic budget, focusing on what you can control in your finances, and seeking practical advice from financial counselors or trusted advisors. Avoid making financial decisions from panic, comparing your financial situation to others, or letting money worries consume all your thoughts. You have the ability to improve your financial situation with time and effort, and if financial stress becomes overwhelming, consider speaking with both financial advisors and mental health professionals for comprehensive support."
+  },
+  {
+    "user_input": "I don't know how to ask for help",
+    "bot_response": "Recognizing that you need help is actually a sign of strength and self-awareness, not weakness. Try starting with small requests to people you trust, being specific about what kind of help you need, and remembering that most people want to support others when they can. Avoid believing you should handle everything alone, feeling ashamed about needing support, or expecting others to read your mind about your needs. You deserve help and support, and learning to ask for assistance is a valuable life skill that strengthens relationships and builds community."
+  },
+  {
+    "user_input": "I'm having nightmares",
+    "bot_response": "Nightmares can be distressing and affect your sleep quality and daily functioning. Try practicing relaxation techniques before bed, maintaining a consistent sleep routine, and creating a calming bedtime environment. Avoid consuming scary or stressful content before sleep, sleeping in an uncomfortable environment, or dismissing nightmares as unimportant. Your sleep and peace of mind matter, and if nightmares persist or relate to traumatic experiences, consider speaking with a mental health professional who can help address underlying causes and provide specialized treatment."
+  },
+  {
+    "user_input": "I feel like everyone is better than me",
+    "bot_response": "Comparing yourself to others is natural but can be painful and often inaccurate since you're comparing your inner experience to others' outer appearances. Try focusing on your own growth and progress, practicing gratitude for your unique qualities, and limiting social media if it triggers comparison. Avoid assuming others don't struggle, dismissing your own achievements as unimportant, or using comparison as motivation for self-improvement. You have your own valuable qualities and journey, and if constant comparison becomes overwhelming, therapy can help you build self-esteem and appreciation for your individual worth."
+  },
+  {
+    "user_input": "I'm scared of making decisions",
+    "bot_response": "Fear of making decisions often comes from wanting to avoid mistakes or disappoint others, which shows you care about outcomes. Try gathering reasonable information without over-researching, remembering that most decisions can be adjusted later, and trusting your intuition alongside logical thinking. Avoid seeking perfection in decisions, asking everyone's opinion to avoid responsibility, or postponing all choices indefinitely. You have good judgment and the ability to handle whatever comes from your decisions, and if decision-making anxiety persists, a counselor can help you build confidence in your choice-making abilities."
+  },
+  {
+    "user_input": "I feel like I'm faking being okay",
+    "bot_response": "Many people feel like they're putting on a facade when they're struggling, and this mask can be exhausting to maintain. Try gradually sharing your real feelings with trusted people, practicing authenticity in small ways, and giving yourself permission to not be okay sometimes. Avoid believing you must always appear strong, isolating yourself to hide your struggles, or feeling guilty for having difficult emotions. You don't have to pretend to be fine all the time, and if maintaining this facade becomes too difficult, consider reaching out to a therapist where you can be completely honest about your experience."
+  },
+  {
+    "user_input": "I'm jealous of my friends' success",
+    "bot_response": "Jealousy toward friends can create guilt and complicate relationships, but it's a human emotion that many people experience. Try celebrating friends' successes genuinely while also acknowledging your own achievements, focusing on your unique path and timeline, and using their success as inspiration rather than comparison. Avoid letting jealousy damage friendships, dismissing your own accomplishments, or believing someone else's success diminishes your worth. You can be happy for others while still working toward your own goals, and if jealousy becomes consuming, therapy can help you explore underlying insecurities and build genuine self-confidence."
+  },
+  {
+    "user_input": "I can't stop thinking about the past",
+    "bot_response": "Ruminating about the past is common but can prevent you from fully experiencing the present and moving forward. Try practicing mindfulness to stay in the current moment, setting aside specific time for reflection rather than constant rumination, and focusing on what you can learn from past experiences. Avoid trying to change what already happened, punishing yourself repeatedly for past mistakes, or believing the past completely determines your future. You have the power to create new experiences and memories, and if past-focused thinking becomes overwhelming, consider speaking with a therapist about processing past experiences and developing present-moment awareness."
+  },
+  {
+    "user_input": "I feel like I'm not living up to my potential",
+    "bot_response": "The gap between where you are and where you think you should be can create frustration, but potential unfolds over time and in unexpected ways. Try setting realistic short-term goals, appreciating your current progress and efforts, and remembering that potential isn't wasted if it's not realized by a certain age. Avoid comparing your timeline to others, setting impossibly high standards for yourself, or believing you've missed your chance for growth and achievement. You are still growing and evolving, and if pressure about potential becomes overwhelming, a counselor can help you develop realistic expectations and find satisfaction in your unique journey."
+  },
+  {
+    "user_input": "I'm afraid of getting close to people",
+    "bot_response": "Fear of intimacy often comes from past hurts or fear of vulnerability, and it's understandable to want to protect yourself from potential pain. Try taking small steps toward connection, communicating your boundaries clearly, and recognizing that some risk is necessary for meaningful relationships. Avoid isolating completely to avoid hurt, expecting people to understand your needs without communication, or believing all relationships will end in disappointment. You deserve loving, supportive connections, and if fear of closeness persists, therapy can help you work through past experiences and develop secure attachment patterns."
+  },
+  {
+    "user_input": "I feel like time is running out",
+    "bot_response": "Feeling pressure about time can create anxiety and prevent you from enjoying the present moment. Try focusing on what you can accomplish today, remembering that meaningful change happens gradually, and appreciating the experiences you're having right now. Avoid comparing your timeline to societal expectations, rushing important decisions due to time pressure, or believing certain opportunities are completely gone forever. You have more time than you think and the power to create meaningful experiences at any stage of life, and if time anxiety becomes overwhelming, consider speaking with a counselor about managing these pressures and finding peace with your pace."
+  },
+  {
+    "user_input": "I'm struggling with my identity",
+    "bot_response": "Identity questions are natural parts of growth and self-discovery, especially during life transitions or periods of change. Try exploring your values and interests without pressure to define yourself completely, giving yourself permission to evolve and change over time, and connecting with communities where you feel understood. Avoid rushing to label yourself, believing you should have everything figured out, or changing yourself completely based on others' expectations. You are allowed to be complex and multifaceted, and if identity struggles feel overwhelming, therapy can provide a safe space to explore who you are and who you want to become."
+  },
+  {
+    "user_input": "I feel like giving up on my dreams",
+    "bot_response": "Dreams can feel impossible when you're facing obstacles or setbacks, but your dreams matter and deserve consideration. Try breaking big dreams into smaller, manageable steps, adjusting timelines without abandoning goals entirely, and remembering why these dreams mattered to you originally. Avoid giving up during temporary setbacks, comparing your progress to others, or believing dreams must be achieved exactly as originally imagined. You have unique gifts and perspectives to offer the world, and if motivation for your dreams feels lost, consider speaking with a counselor about rediscovering your passions and creating realistic paths forward."
+  },
+  {
+    "user_input": "I'm tired of pretending to be happy",
+    "bot_response": "Constantly pretending to be happy can be emotionally exhausting and prevent you from getting the support you need. Try gradually sharing your real feelings with trusted people, practicing authenticity in safe spaces, and giving yourself permission to experience the full range of human emotions. Avoid believing you must always be positive, isolating yourself to hide your struggles, or feeling guilty for having difficult emotions. You deserve to be seen and supported for who you really are, and if maintaining this facade becomes too difficult, consider reaching out to a therapist where you can be completely honest about your emotional experience."
+  },
+  {
+    "user_input": "I don't know what I want in life",
+    "bot_response": "Not knowing what you want is actually more common than having everything figured out, and uncertainty can be an opportunity for exploration and growth. Try experimenting with different activities and experiences, paying attention to what energizes versus drains you, and giving yourself permission to change directions as you learn more about yourself. Avoid pressure to have a complete life plan, comparing your clarity to others who seem more certain, or believing indecision means you're failing. You have time to discover what matters to you, and if uncertainty feels overwhelming, a counselor can help you explore your values and interests in a supportive environment."
+  },
+  {
+    "user_input": "I'm scared of being vulnerable",
+    "bot_response": "Fear of vulnerability is natural since being open does involve some risk, but vulnerability is also essential for deep connections and personal growth. Try sharing small, safe things about yourself first, choosing trustworthy people for deeper sharing, and remembering that vulnerability often strengthens rather than weakens relationships. Avoid shutting down completely to avoid risk, expecting vulnerability to always be received perfectly, or believing that being strong means never showing weakness. You deserve connections where you can be your authentic self, and if fear of vulnerability feels paralyzing, therapy can help you practice opening up in a safe, supportive environment."
+  },
+  {
+    "user_input": "I feel like I'm losing control",
+    "bot_response": "Feeling out of control can be frightening and often happens during stressful or transitional periods in life. Try focusing on small things you can influence each day, practicing grounding techniques to feel more centered, and accepting that some uncertainty is part of life. Avoid trying to control everything around you, making major decisions when feeling panicked, or believing that loss of control means you're failing. You have more influence over your life than you might realize right now, and if feeling out of control persists, consider speaking with a mental health professional about developing coping strategies and regaining your sense of agency."
+  },
+  {
+    "user_input": "I'm worried about disappointing others",
+    "bot_response": "Fear of disappointing others shows that you care about relationships, but constantly worrying about others' approval can prevent you from living authentically. Try setting realistic expectations with others, communicating your limitations honestly, and remembering that disappointing someone occasionally is part of healthy relationships. Avoid changing yourself completely to please others, taking responsibility for everyone else's emotions, or believing your worth depends on others' approval. You can care about others while still honoring your own needs and boundaries, and if people-pleasing becomes overwhelming, therapy can help you develop healthy relationship patterns and self-advocacy skills."
+  },
+  {
+    "user_input": "I feel like I'm not where I should be in life",
+    "bot_response": "Comparing your current situation to where you think you should be can create unnecessary pressure and dissatisfaction with your actual progress. Try appreciating how far you've come from where you started, focusing on your own timeline rather than societal expectations, and setting realistic goals based on your circumstances. Avoid measuring your worth by arbitrary timelines, comparing your behind-the-scenes to others' highlight reels, or believing there's only one right path through life. You are exactly where you need to be for your unique journey, and if pressure about life timelines becomes overwhelming, consider speaking with a counselor about managing expectations and finding satisfaction in your current chapter."
+  },
+  {
+    "user_input": "I'm struggling with addiction",
+    "bot_response": "Recognizing addiction takes courage, and reaching out for help is a significant first step toward recovery. Try connecting with addiction support groups, removing triggers from your environment when possible, and developing healthy coping strategies with professional guidance. Avoid trying to overcome addiction completely alone, feeling ashamed about needing help, or believing that relapse means you're a failure. You deserve support and recovery is possible with the right resources, and addiction is a medical condition that responds well to professional treatment - please consider reaching out to addiction counselors, support groups, or medical professionals who specialize in addiction recovery."
+  },
+  {
+    "user_input": "I feel like nobody cares about me",
+    "bot_response": "Feeling uncared for is deeply painful and can make the world seem very lonely. Try reaching out to others even in small ways, expressing appreciation for people in your life, and engaging in communities or activities where you can connect with others. Avoid isolating completely, dismissing others' attempts to connect, or assuming people's busy lives mean they don't care. You matter more than you realize and there are people who would want to support you, and if feelings of being uncared for persist, consider reaching out to a mental health professional who can help you build connections and recognize the care that exists around you."
+  },
+  {
+    "user_input": "I'm having trouble forgiving myself",
+    "bot_response": "Self-forgiveness can be one of the most difficult forms of forgiveness, but you deserve the same compassion you would offer a good friend. Try practicing self-compassion, making amends where appropriate without punishing yourself indefinitely, and focusing on learning and growth rather than self-punishment. Avoid ruminating endlessly on past mistakes, believing you don't deserve forgiveness, or using guilt as motivation for better behavior. You are human and worthy of forgiveness, especially from yourself, and if self-forgiveness feels impossible, therapy can help you work through guilt and shame while developing healthier self-talk and self-compassion practices."
+  },
+  {
+    "user_input": "I feel like I'm too sensitive",
+    "bot_response": "Being sensitive can feel overwhelming in a world that often values toughness, but sensitivity is actually a valuable trait that allows for deep empathy and connection. Try setting boundaries to protect your emotional energy, practicing self-care when feeling overwhelmed, and surrounding yourself with people who appreciate your sensitivity. Avoid believing sensitivity is a weakness, constantly apologizing for your emotional responses, or trying to numb your feelings to appear stronger. Your sensitivity allows you to connect deeply with others and notice subtleties that others might miss, and if sensitivity feels overwhelming, a therapist can help you develop strategies for managing intense emotions while honoring your empathetic nature."
+  },
+  {
+    "user_input": "I'm scared of success",
+    "bot_response": "Fear of success is more common than you might think and can stem from worry about increased responsibility, fear of change, or concern about others' reactions. Try exploring what specifically about success feels scary, taking success one step at a time rather than imagining dramatic life changes, and remembering that you can handle whatever comes with achievement. Avoid self-sabotaging when opportunities arise, believing success will fundamentally change who you are, or assuming success means you'll lose important relationships. You deserve good things in your life and have the strength to handle success gracefully, and if fear of success holds you back, consider speaking with a counselor about underlying concerns and building confidence in your ability to handle positive changes."
+  },
+  {
+    "user_input": "I feel like I'm running out of time to find love",
+    "bot_response": "Pressure to find love by certain timelines can create anxiety and lead to settling for incompatible relationships. Try focusing on becoming the person you want to be, engaging in activities where you might meet like-minded people, and trusting that meaningful connections can happen at any age. Avoid settling for relationships that don't feel right, comparing your romantic timeline to others, or believing there's an expiration date on finding love. You deserve a healthy, loving relationship and love can bloom at any stage of life, and if pressure about finding love becomes overwhelming, consider speaking with a counselor about managing these expectations and building confidence in your relationship readiness."
+  },
+  {
+    "user_input": "I'm struggling with my appearance",
+    "bot_response": "Appearance concerns affect many people in our image-focused culture, and your feelings about your looks are valid and understandable. Try practicing body neutrality, focusing on your body's functionality rather than just appearance, and limiting exposure to unrealistic beauty standards in media. Avoid comparing yourself to edited images, engaging in harsh self-criticism when looking in mirrors, or believing your worth depends on your appearance. You are valuable regardless of how you look, and if appearance concerns significantly impact your daily life, consider working with a therapist who specializes in body image and self-acceptance to develop a healthier relationship with your physical self."
+  },
+  {
+    "user_input": "I feel like I'm wasting my potential",
+    "bot_response": "Worrying about wasted potential often comes from comparing your current situation to an idealized version of what your life could be. Try setting small, achievable goals toward things that matter to you, celebrating progress even if it feels slow, and remembering that potential can be realized at any stage of life. Avoid paralyzing yourself with pressure to achieve everything immediately, comparing your journey to others who seem more successful, or believing you've missed your chance for growth and achievement. Your potential isn't going anywhere and you have the power to take steps toward meaningful goals, and if pressure about potential becomes overwhelming, therapy can help you develop realistic expectations and find satisfaction in your unique path forward."
+  },
+  {
+    "user_input": "I'm afraid of being judged for my mental health",
+    "bot_response": "Stigma around mental health can make it scary to reach out for help, but your mental health struggles don't define your worth or character. Try educating yourself about mental health to reduce internalized stigma, connecting with supportive communities who understand, and remembering that seeking help shows strength, not weakness. Avoid letting fear of judgment prevent you from getting needed support, internalizing negative messages about mental health, or believing you should handle everything alone. You deserve compassion and care for your mental health just like any other aspect of your well-being, and if fear of judgment feels overwhelming, consider speaking with a mental health professional who can provide support in a confidential, non-judgmental environment."
+  },
+  {
+    "user_input": "I feel like I'm not good at anything",
+    "bot_response": "Feeling incompetent can be discouraging, but it often comes from comparing yourself to others or focusing only on areas where you struggle. Try identifying your strengths and past achievements, engaging in activities where you feel confident, and remembering that competence develops through practice and time. Avoid dismissing your abilities, comparing your beginning to someone else's middle, or believing you must be excellent at everything to have value. You have unique talents and capabilities that deserve recognition and development, and if feelings of incompetence persist, consider working with a counselor to identify your strengths and build confidence in your abilities."
+  },
+  {
+    "user_input": "I'm overwhelmed by social media",
+    "bot_response": "Social media can be overwhelming and often presents unrealistic portrayals of others' lives that fuel comparison and inadequacy. Try setting specific times for social media use, unfollowing accounts that trigger negative feelings, and focusing on real-life connections and activities. Avoid mindless scrolling when feeling vulnerable, comparing your real life to others' curated posts, or using social media as your primary source of social connection. You deserve authentic connections and activities that genuinely fulfill you, and if social media overwhelm continues, consider taking breaks or speaking with someone about developing a healthier relationship with technology and social comparison."
+  },
+  {
+    "user_input": "I feel like I can't trust my own judgment",
+    "bot_response": "Doubting your judgment can be paralyzing and often stems from past mistakes, criticism from others, or anxiety about making wrong decisions. Try starting with small, low-stakes decisions to build confidence, reflecting on times when your judgment served you well, and trusting your intuition alongside logical thinking. Avoid second-guessing every decision, seeking excessive reassurance from others, or believing past mistakes mean you can't make good choices. You have valuable insights and experiences that inform your judgment, and if self-doubt about decision-making persists, consider speaking with a therapist about building confidence in your choice-making abilities and trusting your inner wisdom."
+  },
+  {
+    "user_input": "I'm struggling with perfectionism",
+    "bot_response": "Perfectionism can be exhausting and paradoxically prevent you from achieving your goals due to fear of imperfection. Try setting 'good enough' standards for most tasks, celebrating progress over perfection, and reminding yourself that mistakes are part of learning and growth. Avoid procrastinating due to perfectionist fears, criticizing yourself harshly for small errors, or believing anything less than perfect is failure. You are worthy of appreciation and success even when things aren't perfect, and if perfectionism significantly impacts your life, consider working with a therapist to develop more balanced standards and reduce anxiety around performance and achievement."
+  },
+  {
+    "user_input": "I feel like I'm behind everyone else my age",
+    "bot_response": "Comparing your timeline to others your age can create unnecessary pressure and overlook the unique circumstances and paths that shape individual journeys. Try focusing on your own progress and growth, celebrating your achievements regardless of timing, and remembering that everyone develops at their own pace. Avoid measuring your worth by societal timelines, dismissing your accomplishments because they happened 'late,' or rushing important decisions to catch up with peers. You are on your own unique path with valuable experiences and perspectives, and if pressure about timelines becomes overwhelming, consider speaking with a counselor about managing comparison and finding satisfaction in your individual journey."
+  },
+  {
+    "user_input": "I'm afraid of opening up",
+    "bot_response": "Fear of vulnerability and opening up often comes from past hurts or worry about being judged or rejected. Try sharing small things about yourself with trusted people first, choosing safe relationships for deeper sharing, and remembering that authenticity often strengthens connections. Avoid shutting down completely to protect yourself, expecting others to know your thoughts without communication, or believing that being open always leads to hurt. You deserve relationships where you can be genuine and supported, and if fear of opening up feels overwhelming, therapy provides a safe space to practice vulnerability and work through barriers to authentic connection with others."
+  }
+]
