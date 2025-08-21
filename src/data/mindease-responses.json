@@ -1,0 +1,322 @@
+[
+  {
+    "user_input": "I feel depressed",
+    "bot_response": "I'm really sorry you're feeling this way. It may help to talk with a trusted friend, write down your feelings, or try mindfulness exercises. Please avoid isolating yourself or falling into negative self-talk. If these feelings continue, consider reaching out to a mental health professional for support."
+  },
+  {
+    "user_input": "I'm anxious about exams",
+    "bot_response": "Exam anxiety is completely understandable. Try breaking your study material into smaller chunks, practice deep breathing exercises, and maintain a regular sleep schedule. Avoid cramming all night or comparing yourself to others. Remember, you've prepared as best you can, and that's enough."
+  },
+  {
+    "user_input": "I feel so lonely",
+    "bot_response": "Loneliness can feel overwhelming, but please know you're not alone in feeling this way. Consider reaching out to old friends, joining a club or group activity, or volunteering in your community. Try to avoid staying isolated at home or scrolling social media excessively. Your feelings are valid, and connection is possible."
+  },
+  {
+    "user_input": "I can't sleep at night",
+    "bot_response": "Sleep troubles can be really challenging. Try establishing a bedtime routine, avoiding screens before bed, and practicing relaxation techniques like gentle stretching or meditation. Avoid caffeine late in the day and try not to use your bed for activities other than sleep. If this persists, consider speaking with a healthcare provider."
+  },
+  {
+    "user_input": "I have no motivation",
+    "bot_response": "Loss of motivation is more common than you think. Start with tiny, achievable goals and celebrate small wins. Try to maintain basic self-care routines and consider gentle physical activity. Avoid overwhelming yourself with big tasks or being harsh with yourself. Sometimes motivation follows action, not the other way around."
+  },
+  {
+    "user_input": "I'm having panic attacks",
+    "bot_response": "Panic attacks are frightening, but they will pass. Try the 5-4-3-2-1 grounding technique: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste. Practice slow, deep breathing. Avoid caffeine and don't fight the feelings - let them flow through you. Please consider speaking with a mental health professional about coping strategies."
+  },
+  {
+    "user_input": "I feel worthless",
+    "bot_response": "Those feelings of worthlessness are symptoms, not facts about who you are. Try writing down three things you did today, no matter how small, and practice self-compassion. Avoid negative self-talk and comparing yourself to others. You have inherent worth simply by being human. Please consider reaching out to a counselor or trusted friend."
+  },
+  {
+    "user_input": "I'm stressed about work",
+    "bot_response": "Work stress can feel all-consuming. Try prioritizing your tasks, taking regular breaks, and setting boundaries between work and personal time. Practice stress-relief techniques like deep breathing or short walks. Avoid working excessive hours or bringing work stress home. Remember, you're more than your job performance."
+  },
+  {
+    "user_input": "I feel like giving up",
+    "bot_response": "I'm deeply concerned about how you're feeling, and I want you to know that these intense feelings can change. Please reach out to a crisis helpline, trusted friend, or mental health professional immediately. Try to stay around supportive people and avoid being alone with these thoughts. Your life has value, and help is available. Crisis Text Line: Text HOME to 741741."
+  },
+  {
+    "user_input": "I'm overwhelmed by everything",
+    "bot_response": "Feeling overwhelmed is a sign you're dealing with a lot right now. Try making a list and tackling just one thing at a time. Practice deep breathing and consider which tasks can wait or be delegated. Avoid trying to do everything at once or perfectionism. Remember, it's okay to ask for help and take breaks."
+  },
+  {
+    "user_input": "I don't feel good enough",
+    "bot_response": "Those feelings of inadequacy are painful but don't reflect your true worth. Try practicing self-compassion and acknowledging your efforts, not just outcomes. Consider keeping a gratitude journal or asking trusted friends what they value about you. Avoid harsh self-criticism and comparing yourself to others. You are enough, exactly as you are."
+  },
+  {
+    "user_input": "I'm having trouble concentrating",
+    "bot_response": "Difficulty concentrating can be frustrating and is often linked to stress or emotional struggles. Try breaking tasks into smaller chunks, removing distractions, and taking regular breaks. Practice mindfulness exercises to train your attention. Avoid multitasking and don't blame yourself for having focus challenges. Consider if there are underlying stressors affecting your concentration."
+  },
+  {
+    "user_input": "I feel angry all the time",
+    "bot_response": "Constant anger can be exhausting and is often a sign of deeper pain or unmet needs. Try physical exercise, journaling, or talking to someone you trust about what's underneath the anger. Practice deep breathing when you feel rage building. Avoid lashing out at others or bottling up your emotions. Anger is valid, but finding healthy ways to express it is important."
+  },
+  {
+    "user_input": "I'm grieving a loss",
+    "bot_response": "Grief is one of the most difficult human experiences, and there's no 'right' way to grieve. Allow yourself to feel whatever comes up, seek support from friends or support groups, and be patient with your healing process. Avoid rushing yourself or comparing your grief to others'. Consider honoring your loved one's memory in meaningful ways. Professional grief counseling can also be very helpful."
+  },
+  {
+    "user_input": "I feel disconnected from everyone",
+    "bot_response": "Feeling disconnected is deeply painful and more common than you might think. Try reaching out with small gestures like texting an old friend or participating in community activities. Practice vulnerability by sharing something real with someone you trust. Avoid assuming others don't want to connect with you or isolating yourself further. Meaningful connections take time to build."
+  },
+  {
+    "user_input": "I'm having relationship problems",
+    "bot_response": "Relationship struggles are challenging and can affect every aspect of our lives. Try having honest, calm conversations about your concerns and practicing active listening. Consider couples therapy if appropriate. Avoid blame games, bringing up past hurts during current conflicts, or making major decisions when emotions are high. Healthy relationships require work from both people."
+  },
+  {
+    "user_input": "I can't stop worrying",
+    "bot_response": "Persistent worry can feel like your mind is stuck in a loop. Try setting aside specific 'worry time' each day, practicing mindfulness to stay present, and challenging catastrophic thoughts with evidence. Engage in calming activities like reading or gentle exercise. Avoid excessive news consumption or trying to control everything. If worry interferes with daily life, consider speaking with a therapist."
+  },
+  {
+    "user_input": "I feel like a failure",
+    "bot_response": "Feeling like a failure is painful, but setbacks don't define your worth or potential. Try reframing 'failures' as learning experiences and acknowledge the courage it takes to try. Focus on effort and growth rather than just outcomes. Avoid all-or-nothing thinking and comparing your behind-the-scenes to others' highlight reels. Everyone experiences setbacks - they're part of being human."
+  },
+  {
+    "user_input": "I'm scared of the future",
+    "bot_response": "Fear about the future is natural, especially during uncertain times. Try focusing on what you can control today, practicing grounding techniques to stay present, and breaking big worries into smaller, manageable pieces. Avoid spending too much time on 'what if' scenarios or consuming anxiety-provoking media. Remember, you've handled difficult things before and have more resilience than you realize."
+  },
+  {
+    "user_input": "I feel numb and empty",
+    "bot_response": "Feeling numb or empty can be your mind's way of protecting you from overwhelming emotions. Try gentle activities that once brought you joy, even if they don't feel meaningful right now. Consider creative expression, gentle movement, or connecting with nature. Avoid judging yourself for feeling this way or trying to force emotions. This feeling can change, and professional support can be really helpful."
+  },
+  {
+    "user_input": "I'm exhausted all the time",
+    "bot_response": "Constant exhaustion affects both your body and mind. Try maintaining regular sleep schedules, eating nutritious foods, and incorporating gentle movement into your day. Consider if emotional stress might be contributing to your fatigue. Avoid overcommitting yourself or relying on caffeine to get through the day. If exhaustion persists, it's worth discussing with a healthcare provider."
+  },
+  {
+    "user_input": "I don't know who I am anymore",
+    "bot_response": "Questioning your identity can feel disorienting but is often part of growth and healing. Try exploring your values, interests, and what matters to you through journaling or creative activities. Consider what aspects of yourself feel authentic and true. Avoid rushing to define yourself or comparing your journey to others'. Identity can evolve, and it's okay not to have all the answers right now."
+  },
+  {
+    "user_input": "I'm having intrusive thoughts",
+    "bot_response": "Intrusive thoughts can be frightening, but having them doesn't make you a bad person or mean you'll act on them. Try acknowledging them without judgment, like clouds passing through the sky. Practice grounding techniques and mindfulness. Avoid fighting the thoughts or feeling guilty about having them. If intrusive thoughts are distressing or frequent, please consider speaking with a mental health professional."
+  },
+  {
+    "user_input": "I feel like I'm not making progress",
+    "bot_response": "Progress isn't always linear, and healing often happens in small, invisible ways before we notice big changes. Try keeping a journal to track small improvements and celebrate tiny victories. Remember that maintaining stability during difficult times is also progress. Avoid comparing your timeline to others or expecting immediate results. Growth takes time, and you're doing better than you think."
+  },
+  {
+    "user_input": "I'm struggling with self-harm urges",
+    "bot_response": "I'm concerned about you and want you to know that these urges can be managed with proper support. Please reach out to a crisis line, therapist, or trusted adult immediately. Try using ice cubes, rubber bands, or drawing on your skin instead. Avoid being alone with sharp objects when feeling this way. Crisis Text Line: Text HOME to 741741. Your safety matters, and help is available."
+  },
+  {
+    "user_input": "I can't stop eating my feelings",
+    "bot_response": "Using food to cope with emotions is more common than you think. Try identifying what emotions trigger eating and finding alternative comfort activities like calling a friend or taking a warm bath. Practice mindful eating and self-compassion. Avoid restricting food or feeling guilty about emotional eating. Consider speaking with a therapist who specializes in eating and emotions."
+  },
+  {
+    "user_input": "I feel guilty about everything",
+    "bot_response": "Excessive guilt can weigh heavily on your heart and mind. Try examining whether the guilt is proportional to the situation and practicing self-forgiveness for mistakes. Consider making amends where appropriate, but avoid ruminating on past actions you can't change. Remember that being human means making mistakes sometimes. Professional support can help you work through persistent guilt."
+  },
+  {
+    "user_input": "I'm afraid of being judged",
+    "bot_response": "Fear of judgment can limit your life and relationships. Try remembering that most people are focused on themselves, not critiquing you. Practice self-acceptance and surround yourself with supportive people. Start with small acts of authenticity in safe spaces. Avoid people-pleasing or hiding your true self to gain approval. Your worth isn't determined by others' opinions of you."
+  },
+  {
+    "user_input": "I feel hopeless about everything",
+    "bot_response": "Hopelessness is one of the most painful feelings, but it's important to remember that feelings change, even when it doesn't seem possible. Try taking things one moment at a time and reaching out to supportive people. Look for tiny glimmers of light, even if they seem insignificant. Avoid making major life decisions while feeling hopeless. Please consider professional support - hope can be restored."
+  },
+  {
+    "user_input": "I'm having nightmares",
+    "bot_response": "Nightmares can disrupt your sleep and affect your daily life. Try establishing a calming bedtime routine, avoiding scary content before bed, and practicing relaxation techniques. Consider keeping a dream journal to identify patterns. Avoid caffeine late in the day and try not to sleep in complete darkness if that helps. If nightmares persist or relate to trauma, a therapist can help."
+  },
+  {
+    "user_input": "I can't forgive myself",
+    "bot_response": "Self-forgiveness is often harder than forgiving others, but it's essential for healing. Try treating yourself with the same compassion you'd show a good friend. Acknowledge your mistake, learn from it, and take steps to make amends if needed. Avoid endless self-punishment or believing you don't deserve forgiveness. Everyone makes mistakes - your worth isn't defined by your worst moments."
+  },
+  {
+    "user_input": "I'm jealous of everyone",
+    "bot_response": "Jealousy can consume your thoughts and affect relationships. Try focusing on your own journey and accomplishments, limiting social media if it triggers comparison, and practicing gratitude for what you have. Remember that people usually share their best moments, not their struggles. Avoid comparing your behind-the-scenes to others' highlight reels. Your path is unique and valid."
+  },
+  {
+    "user_input": "I feel like I'm losing my mind",
+    "bot_response": "Feeling like you're losing your mind is frightening, but recognizing these feelings shows you're still connected to reality. Try grounding techniques like focusing on your five senses, maintaining routines, and reaching out to trusted people. Avoid isolating yourself or dismissing your concerns. If these feelings persist or worsen, please seek professional help. Mental health struggles are treatable."
+  },
+  {
+    "user_input": "I'm scared to ask for help",
+    "bot_response": "Asking for help takes courage, and it's normal to feel scared about being vulnerable. Try starting with small requests from trusted people and remembering that seeking help is a sign of strength, not weakness. Most people want to help when asked. Avoid suffering in silence or believing you should handle everything alone. You deserve support and care."
+  },
+  {
+    "user_input": "I feel like everyone hates me",
+    "bot_response": "When you're struggling, it's easy to assume the worst about how others see you. Try challenging these thoughts with evidence and asking trusted friends how they actually feel. Practice self-compassion and remember that your perception might be colored by your current emotional state. Avoid mind-reading or assuming others' thoughts. Most people are more understanding than you think."
+  },
+  {
+    "user_input": "I can't stop crying",
+    "bot_response": "Crying is your body's natural way of releasing emotional pain, and it's okay to let it out. Try staying hydrated, using a warm compress on your eyes, and being gentle with yourself. Allow the emotions to flow without judgment. Avoid fighting the tears or feeling embarrassed about crying. If crying episodes are frequent or interfere with daily life, consider speaking with a professional."
+  },
+  {
+    "user_input": "I'm struggling with addiction",
+    "bot_response": "Acknowledging an addiction takes tremendous courage, and you're not alone in this struggle. Try connecting with support groups, avoiding triggers when possible, and building a network of supportive people. Consider professional addiction treatment. Avoid shame, isolation, or trying to quit completely on your own if it's dangerous. Recovery is possible, and many people have walked this path before you."
+  },
+  {
+    "user_input": "I feel like I don't belong anywhere",
+    "bot_response": "Not belonging is a deeply painful feeling that many people experience. Try exploring communities or activities aligned with your interests and values. Practice authentic self-expression and look for people who appreciate the real you. Avoid trying to fit in by changing who you are. Finding your tribe takes time, but there are people out there who will value and accept you."
+  },
+  {
+    "user_input": "I'm afraid of dying",
+    "bot_response": "Fear of death is one of our most primal anxieties and completely understandable. Try focusing on living meaningfully in the present, connecting with others, and finding purpose in daily activities. Consider exploring your beliefs about life and death. Avoid obsessing over things you can't control and don't let fear prevent you from living. If this fear is overwhelming, a therapist can help you work through it."
+  },
+  {
+    "user_input": "I feel like I'm wasting my life",
+    "bot_response": "Feeling like you're wasting your life often comes from comparing yourself to others or having unrealistic expectations. Try identifying what truly matters to you and taking small steps toward those values. Remember that everyone's timeline is different. Avoid harsh self-judgment or believing there's only one way to live a meaningful life. It's never too late to make changes that align with your authentic self."
+  },
+  {
+    "user_input": "I'm having trust issues",
+    "bot_response": "Trust issues often develop as protection after being hurt, which is understandable. Try starting with small acts of trust with safe people and communicating your needs clearly in relationships. Practice self-trust by keeping promises to yourself. Avoid assuming everyone will hurt you or letting past betrayals prevent all future connections. Healing trust takes time and often benefits from professional support."
+  },
+  {
+    "user_input": "I can't handle stress anymore",
+    "bot_response": "Feeling overwhelmed by stress is a signal that you need support and coping strategies. Try breaking stressors into manageable pieces, practicing deep breathing or meditation, and prioritizing self-care. Consider what you can control versus what you can't. Avoid trying to handle everything perfectly or alone. Stress management is a skill that can be learned, and it's okay to seek help in developing these tools."
+  },
+  {
+    "user_input": "I feel invisible",
+    "bot_response": "Feeling invisible can be incredibly isolating and painful. Try reaching out to make connections, expressing yourself authentically, and engaging in activities where your contributions are valued. Practice speaking up about your needs and thoughts. Avoid shrinking back or assuming others don't want to see you. You matter, and there are people who would value knowing the real you."
+  },
+  {
+    "user_input": "I'm having body image issues",
+    "bot_response": "Body image struggles affect many people and can be deeply painful. Try practicing body neutrality by focusing on what your body does rather than how it looks. Limit exposure to triggers like social media comparisons. Surround yourself with people who value you for who you are. Avoid negative self-talk about your appearance or extreme diet/exercise behaviors. Professional support can be very helpful with body image concerns."
+  },
+  {
+    "user_input": "I feel like I'm behind in life",
+    "bot_response": "Feeling behind is common in our comparison-heavy culture, but everyone's path is unique. Try focusing on your own progress and celebrating your achievements, no matter how small. Remember that social media and others' highlight reels don't tell the whole story. Avoid comparing your timeline to others or believing there's a universal schedule for life milestones. You're exactly where you need to be."
+  },
+  {
+    "user_input": "I'm struggling with perfectionism",
+    "bot_response": "Perfectionism can be paralyzing and prevent you from enjoying your accomplishments. Try setting 'good enough' standards for non-critical tasks and celebrating effort over outcome. Practice self-compassion when you make mistakes. Avoid all-or-nothing thinking or delaying action until everything is perfect. Remember that mistakes are how we learn and grow - they're not failures."
+  },
+  {
+    "user_input": "I don't feel loved",
+    "bot_response": "Not feeling loved is deeply painful and can make you question your worth. Try practicing self-love through kind self-talk and self-care, and look for love in small gestures from others. Consider expressing your need for affection to trusted people. Avoid seeking love from people who can't give it or believing you're unlovable. Love comes in many forms, and you are worthy of it."
+  },
+  {
+    "user_input": "I'm having social anxiety",
+    "bot_response": "Social anxiety can make everyday interactions feel overwhelming, but it's very treatable. Try starting with small social steps, practicing deep breathing before social situations, and preparing conversation topics in advance. Challenge catastrophic thoughts about social situations. Avoid avoiding all social contact or harsh self-judgment after social interactions. Many people experience social anxiety, and support is available."
+  },
+  {
+    "user_input": "I feel like giving up on my dreams",
+    "bot_response": "Dreams can feel impossible when you're struggling, but they're often worth fighting for. Try breaking your dreams into smaller, manageable steps and celebrating small progress. Consider adjusting your approach rather than abandoning your dreams entirely. Avoid all-or-nothing thinking or comparing your journey to others'. Sometimes dreams evolve, and that's okay too. Your aspirations matter."
+  },
+  {
+    "user_input": "I'm dealing with trauma",
+    "bot_response": "Trauma can profoundly affect your life, but healing is possible with proper support. Try connecting with trauma-informed therapy, practicing grounding techniques during flashbacks, and being patient with your healing process. Avoid judging yourself for trauma responses or trying to 'just get over it.' Trauma therapy approaches like EMDR or CBT can be very effective. You deserve healing and support."
+  },
+  {
+    "user_input": "I feel emotionally drained",
+    "bot_response": "Emotional exhaustion is a real and valid experience that needs attention. Try setting boundaries with energy-draining people or situations, prioritizing rest and self-care, and engaging in activities that restore rather than deplete you. Practice saying no to non-essential commitments. Avoid pushing through exhaustion or feeling guilty about needing emotional rest. Your emotional well-being matters."
+  },
+  {
+    "user_input": "I'm worried about my mental health",
+    "bot_response": "Being concerned about your mental health shows self-awareness and is the first step toward getting help. Try tracking your symptoms, reaching out to mental health professionals, and maintaining supportive relationships. Practice self-care and stress management techniques. Avoid ignoring warning signs or waiting until you're in crisis to seek help. Mental health care is healthcare, and you deserve support."
+  },
+  {
+    "user_input": "I feel like I can't do anything right",
+    "bot_response": "When you're struggling, it's easy to focus only on mistakes and overlook your successes. Try keeping a record of things you do well, even small accomplishments, and practice self-compassion when things don't go as planned. Challenge all-or-nothing thinking patterns. Avoid harsh self-criticism or perfectionist standards. You do many things right - your brain might just not be noticing them right now."
+  },
+  {
+    "user_input": "I'm having trouble making decisions",
+    "bot_response": "Decision-making can feel overwhelming when you're struggling with mental health. Try making a pros and cons list, starting with smaller decisions to build confidence, and setting deadlines to prevent endless deliberation. Remember that most decisions can be adjusted later. Avoid seeking perfection in decisions or asking too many people for input. Trust yourself - you have more wisdom than you realize."
+  },
+  {
+    "user_input": "I feel disconnected from reality",
+    "bot_response": "Feeling disconnected from reality can be frightening and disorienting. Try grounding techniques like the 5-4-3-2-1 method, maintaining daily routines, and staying connected with trusted people. Practice mindfulness to stay present. Avoid isolating yourself or dismissing these feelings as unimportant. Dissociation and derealization are symptoms that can be treated - please consider reaching out to a mental health professional."
+  },
+  {
+    "user_input": "I'm scared of being alone",
+    "bot_response": "Fear of being alone is natural and often stems from deeper emotional needs. Try developing a relationship with yourself through solo activities you enjoy, building a support network you can reach out to, and practicing self-soothing techniques. Avoid staying in unhealthy relationships just to avoid being alone. Learning to be comfortable with yourself is a valuable skill that enhances all your relationships."
+  },
+  {
+    "user_input": "I feel like everyone is better than me",
+    "bot_response": "Comparing yourself to others can make you feel inadequate, but remember that you're comparing your inner experience to others' outer appearances. Try focusing on your own growth and progress, limiting social media exposure, and practicing gratitude for your unique qualities. Avoid comparing your beginning to someone else's middle. Everyone has struggles and strengths - you just might not see the whole picture."
+  },
+  {
+    "user_input": "I'm having trouble expressing my emotions",
+    "bot_response": "Many people struggle to express emotions, especially if it wasn't modeled in childhood. Try journaling to identify your feelings, using emotion words to describe your experiences, and practicing with trusted friends. Creative outlets like art or music can also help express emotions. Avoid bottling up feelings or judging yourself for having emotions. Emotional expression is a skill that can be developed with practice."
+  },
+  {
+    "user_input": "I feel like I'm losing control",
+    "bot_response": "Feeling out of control can be terrifying, but focusing on what you can influence can help restore some sense of agency. Try identifying small areas where you do have choice, creating routines to provide structure, and practicing acceptance for things beyond your control. Avoid trying to control everything or everyone around you. Sometimes letting go of the need for control actually gives you more peace."
+  },
+  {
+    "user_input": "I'm struggling with change",
+    "bot_response": "Change can feel overwhelming even when it's positive. Try taking transitions one step at a time, focusing on what remains constant in your life, and giving yourself time to adjust. Practice self-compassion during periods of change. Avoid rushing yourself to adapt or resisting change completely. Change is a natural part of life, and humans are more adaptable than we often realize."
+  },
+  {
+    "user_input": "I don't know how to be happy",
+    "bot_response": "Happiness isn't a constant state but rather moments of joy, contentment, and peace woven throughout life. Try engaging in activities that bring you small pleasures, connecting with others, and practicing gratitude. Focus on meaning and purpose rather than just happiness. Avoid believing you should be happy all the time or comparing your happiness to others'. Joy often comes from simple moments and connections."
+  },
+  {
+    "user_input": "I feel like I burden everyone",
+    "bot_response": "Feeling like a burden often comes from depression or low self-worth, not reality. Try asking trusted friends how they actually feel about supporting you and remember that relationships involve mutual give and take. Consider how you'd feel if a friend needed support. Avoid assuming you know what others think or isolating yourself to 'protect' others. Most people who care about you want to help and don't see you as a burden."
+  },
+  {
+    "user_input": "I'm having trouble with boundaries",
+    "bot_response": "Setting boundaries is challenging but essential for your well-being. Try starting with small boundaries in low-stakes situations, communicating your needs clearly and kindly, and remembering that boundaries protect relationships rather than harm them. Practice saying no without extensive explanations. Avoid feeling guilty for having needs or allowing others to consistently cross your boundaries. Healthy boundaries benefit everyone involved."
+  },
+  {
+    "user_input": "I feel like I'm not enough",
+    "bot_response": "The feeling of not being enough is painful but often comes from unrealistic standards or past experiences, not truth about your worth. Try practicing self-acceptance, celebrating your unique qualities, and challenging the voice that says you're insufficient. Remember that you don't have to earn your worth. Avoid striving for perfection or comparing yourself to impossible standards. You are enough, exactly as you are."
+  },
+  {
+    "user_input": "I'm scared of failure",
+    "bot_response": "Fear of failure can prevent you from trying new things and reaching your potential. Try reframing failure as learning opportunities, setting realistic expectations, and celebrating effort regardless of outcome. Remember that everyone fails sometimes - it's part of growth. Avoid perfectionism or allowing fear to keep you from pursuing your goals. Many successful people have failed multiple times before succeeding."
+  },
+  {
+    "user_input": "I feel misunderstood by everyone",
+    "bot_response": "Feeling misunderstood is isolating and can make you question your communication or worth. Try expressing yourself clearly and asking others to reflect back what they heard. Look for people who make effort to understand you. Practice self-validation when others don't get it. Avoid assuming no one will ever understand you or giving up on communication. The right people will make the effort to understand who you are."
+  },
+  {
+    "user_input": "I'm having existential thoughts",
+    "bot_response": "Questioning the meaning of life and your place in the universe is a normal part of human experience. Try exploring your values and what gives your life meaning, connecting with others about these deep questions, and finding purpose in daily actions. Consider philosophical or spiritual exploration if that resonates. Avoid getting lost in endless questioning without action. Many people grapple with these questions - you're not alone in wondering."
+  },
+  {
+    "user_input": "I feel like time is running out",
+    "bot_response": "Feeling like time is running out can create anxiety and pressure to achieve everything at once. Try focusing on the present moment, identifying what truly matters to you, and taking meaningful action rather than rushing. Remember that everyone's timeline is different. Avoid comparing your progress to others or believing you're too late for anything. You have more time than you think, and it's never too late to make meaningful changes."
+  },
+  {
+    "user_input": "I can't stop overthinking",
+    "bot_response": "Overthinking can trap you in cycles of worry and prevent you from taking action. Try setting specific times for thinking through problems, practicing mindfulness to return to the present, and engaging in activities that occupy your mind constructively. Write down your thoughts to get them out of your head. Avoid trying to solve everything mentally or believing you can think your way out of every problem. Sometimes action is better than more thinking."
+  },
+  {
+    "user_input": "I feel like I don't matter",
+    "bot_response": "Feeling like you don't matter is incredibly painful, but your existence has value simply because you're here. Try connecting with others who appreciate you, engaging in activities that feel meaningful to you, and volunteering to help others. Remember the positive impact you've had on people, even in small ways. Avoid isolating yourself or dismissing your contributions to the world. You matter more than you know."
+  },
+  {
+    "user_input": "I'm struggling with self-care",
+    "bot_response": "Self-care can feel impossible when you're struggling, but it's often when you need it most. Try starting with basic needs like eating, sleeping, and hygiene, then gradually adding activities that nourish you. Remember that self-care isn't selfish - it helps you show up better for others too. Avoid guilt about taking care of yourself or believing you don't deserve care. Self-care is a practice, not perfection."
+  },
+  {
+    "user_input": "I feel emotionally numb",
+    "bot_response": "Emotional numbness can be your mind's way of protecting you from overwhelming feelings, but it can also disconnect you from joy and connection. Try gentle activities to reconnect with emotions, like listening to music, spending time in nature, or creative expression. Be patient with yourself as feelings return. Avoid forcing emotions or judging yourself for feeling numb. This is often temporary and can improve with support and time."
+  },
+  {
+    "user_input": "I'm afraid of getting close to people",
+    "bot_response": "Fear of intimacy often develops as protection from being hurt, but it can also prevent meaningful connections. Try taking small steps toward vulnerability with safe people, examining what you're really afraid of, and remembering that not everyone will hurt you. Practice self-compassion about your fears. Avoid letting past hurts prevent all future connections or assuming everyone will leave. Healthy relationships are worth the risk."
+  },
+  {
+    "user_input": "I feel like I'm falling apart",
+    "bot_response": "Feeling like you're falling apart is frightening, but sometimes we need to come undone before we can rebuild stronger. Try focusing on one small thing at a time, reaching out for support, and being extra gentle with yourself during this difficult period. Remember that falling apart doesn't mean you're broken forever. Avoid trying to hold everything together perfectly or facing this alone. Sometimes falling apart is the beginning of putting yourself back together in a healthier way."
+  },
+  {
+    "user_input": "I don't know what's wrong with me",
+    "bot_response": "Not understanding what you're experiencing can be confusing and scary. Try keeping a journal of your symptoms and feelings, talking to trusted friends about your experiences, and considering professional help to get clarity. Remember that struggling doesn't mean something is fundamentally wrong with you. Avoid diagnosing yourself or believing you're broken. Many mental health challenges are common and treatable - getting clarity is the first step toward feeling better."
+  },
+  {
+    "user_input": "I feel like I'm too sensitive",
+    "bot_response": "Being sensitive isn't a flaw - it often means you feel deeply and empathize strongly with others. Try honoring your sensitivity as a strength while learning healthy boundaries. Practice self-care after emotionally intense situations. Surround yourself with people who appreciate your depth of feeling. Avoid apologizing for your emotions or trying to numb your sensitivity. The world needs people who feel deeply and care strongly."
+  },
+  {
+    "user_input": "I'm having trouble letting go",
+    "bot_response": "Letting go is often difficult because it involves accepting loss or change, which can feel scary. Try practicing acceptance of what you cannot control, focusing on what you can influence moving forward, and being patient with your process. Letting go is often gradual, not a one-time event. Avoid rushing yourself or feeling bad about taking time to release something important. Healing and acceptance happen at their own pace."
+  },
+  {
+    "user_input": "I feel stuck in life",
+    "bot_response": "Feeling stuck is frustrating and can make you feel hopeless, but it's often a sign that change is needed. Try identifying one small step you could take toward change, exploring what's keeping you stuck, and considering what you truly want in life. Sometimes being stuck is preparation for a big leap forward. Avoid overwhelming yourself with massive changes or believing you'll never move forward. Small steps can lead to big transformations."
+  },
+  {
+    "user_input": "I'm worried I'm going crazy",
+    "bot_response": "Worrying about your mental state when you're struggling is completely normal and actually shows you're still grounded in reality. Try talking to a mental health professional about your concerns, practicing grounding techniques when anxiety peaks, and remembering that having mental health challenges doesn't mean you're 'crazy.' Avoid catastrophic thinking or self-diagnosing. Many people have these fears when struggling - seeking help shows wisdom, not weakness."
+  },
+  {
+    "user_input": "I don't see the point in anything",
+    "bot_response": "Losing your sense of purpose is deeply painful and often a sign of depression. Try engaging in small meaningful activities, connecting with others who share your values, and exploring what used to bring you purpose. Remember that meaning can be found in simple acts of kindness and connection. Avoid making major life decisions while feeling this way and don't dismiss the importance of getting professional help. Purpose and meaning can be restored."
+  }
+]
